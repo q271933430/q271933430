@@ -13,7 +13,7 @@ public class ArrayExer {
             }
         }
         for (int i=0;i<array1.length;i++) {
-            System.out.print(array1[i]+"\t");
+            System.out.print(array1[i]+"\t"“\t”);
         }
     }
 }
